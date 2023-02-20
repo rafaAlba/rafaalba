@@ -16,10 +16,13 @@ E logo estarei postando projetos aqui e no Youtube !
   ##
   
   <div>
+  <rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#E4E2E2" width="494" fill="#0d1117" stroke-opacity="0"/>
       <a href="https://youtube.com/channel/UCd7ky1JAauY6QyBYxkyivdA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/rafaella-dos-santos-e-silva-alba-720ba8245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://www.twitch.tv/rafaella_14top" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-     <a href = "mailto:rafaeladossantosalba.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:rafaeladossantosalba.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://cdn.picrew.me/shareImg/org/202302/338224_zc8Jc7QE.png" width="100" height="100">
-  
 </div>
+
+<div>
+  
