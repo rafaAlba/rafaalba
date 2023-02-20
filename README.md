@@ -1,4 +1,4 @@
-### Olá! Eu Sou a Rafaella Alba
+### Olá! Eu Sou a Rafaella Alba, Amo programação e tecnologia!
 
 -  Estudando 
 -  Estudando Back-end e Front-end 
