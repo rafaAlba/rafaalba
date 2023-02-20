@@ -8,14 +8,15 @@ E logo estarei postando projetos aqui e no Youtube !
 
 
   <div style="display: inline_block"><br>
-  <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;"
-  src="https://cdn.picrew.me/shareImg/org/202302/338224_zc8Jc7QE.png" width="200" height="200">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
   
   ##
+  
+  <div><img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;"
+  src="https://cdn.picrew.me/shareImg/org/202302/338224_zc8Jc7QE.png" width="200" height="200"></div>
   
   <div>
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
