@@ -1,8 +1,8 @@
 ### Olá! Eu Sou a Rafaella Alba
 
-- 🔭 Estudando 
-- 🌱 Estudando Back-end e Front-end 
-- 😄 Pronouns: ela/dela
+-  Estudando 
+-  Estudando Back-end e Front-end 
+
 
 <div align="center">
   <a href="https://github.com/rafaalba">
