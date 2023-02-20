@@ -21,7 +21,7 @@ E logo estarei postando projetos aqui e no Youtube !
    <a href="https://www.twitch.tv/rafaella_14top" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:rafaeladossantosalba.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;"
-  src="https://cdn.picrew.me/shareImg/org/202302/338224_zc8Jc7QE.png" width="100" height="100">
+  src="https://cdn.picrew.me/shareImg/org/202302/338224_zc8Jc7QE.png" width="200" height="200">
   
 </div>
 
