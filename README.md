@@ -3,8 +3,8 @@
 
 E logo estarei postando projetos aqui e no Youtube !
 
--  Estudando 
--  Estudando Back-end e Front-end 
+- Estudando 
+- Estudando Back-end e Front-end 
 
 
   <div style="display: inline_block"><br>
