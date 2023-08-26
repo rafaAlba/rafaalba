@@ -21,6 +21,9 @@ E logo estarei postando projetos aqui e no Linkedin !
    <a href="https://www.linkedin.com/in/rafaella-dos-santos-e-silva-alba-720ba8245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://www.twitch.tv/rafaella_14top" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:rafaeladossantosalba.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <div align = "center">
+   <b>Thanks for your visit!</b></br>
+   <img width="180px"src="https://media1.giphy.com/media/XgH0beW46tK3HDn5hP/giphy.gif?cid=790b76115f388660b104c6b93ceb3ff17e684f30381f0c7e&rid=giphy.gif&ct=s">
  
 </div>
 
