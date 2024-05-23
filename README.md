@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sejam+Bem+Vindos(as);Sou+Rafaella+Alba;Tenho+15+anos;Estudando+para+ser+Programadora!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sejam+Bem+Vindos(as);Sou+Rafaella+Alba;Tenho+16+anos;Estudando+para+ser+Programadora!!!)](https://git.io/typing-svg)
 
 
 E logo estarei postando projetos aqui e no Linkedin !
